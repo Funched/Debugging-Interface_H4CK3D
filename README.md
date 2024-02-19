@@ -43,3 +43,12 @@ Now we have hexadecimal data corresponding to each square pulse. We have to expo
 ![image](https://github.com/Funched/Debugging-Interface_H4CK3D/assets/135317904/d2ea6529-3fe4-41d4-b9b9-5f0280504652)
 
 A Python script can be created for this task. 
+
+[export.py](https://github.com/Funched/Debugging-Interface_H4CK3D/blob/main/export.py) can be used for exporting from the .csv file
+
+![image](https://github.com/Funched/Debugging-Interface_H4CK3D/assets/135317904/9d188c06-890d-4db5-91a6-fd3e130b244c)
+
+[convert.py](https://github.com/Funched/Debugging-Interface_H4CK3D/blob/main/convert.py) can be used for converting hex data to ASCII data.
+
+![image](https://github.com/Funched/Debugging-Interface_H4CK3D/assets/135317904/c5444660-c1e9-44da-b82a-350e14854c50)
+
