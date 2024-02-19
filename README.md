@@ -39,3 +39,7 @@ We still haven't found any useful information. We need to configure the analyzer
 ![image](https://github.com/Funched/Debugging-Interface_H4CK3D/assets/135317904/1f804618-92a2-42db-b774-37a0d7b900e0)
 
 Now we have hexadecimal data corresponding to each square pulse. We have to export hex data and convert it to ASCII format. 
+
+![image](https://github.com/Funched/Debugging-Interface_H4CK3D/assets/135317904/d2ea6529-3fe4-41d4-b9b9-5f0280504652)
+
+A Python script can be created for this task. 
