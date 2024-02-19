@@ -1,4 +1,4 @@
-![image](https://github.com/Funched/Debugging-Interface_H4CK3D/assets/135317904/e991b19f-1396-4cc9-8722-7b87bd728989)# Debugging-Interface_H4CK3D
+# Debugging-Interface_H4CK3D
 Hack The Box Debugging Interface Challenge Walkthrough
 This challenge from the HTB indicates that the asynchronous serial debugging interface was accessed while running and that some messages transmitted over this interface were intercepted. It is requested to analyze this traffic and find the flag.
 
